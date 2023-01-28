@@ -1,3 +1,2 @@
 # demoRepo
-git aniket changes
-git S
+git aniket change
